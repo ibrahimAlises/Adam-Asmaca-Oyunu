@@ -6,7 +6,7 @@ secret_word = "Metallica"
 guess_string = ""
 
 lives = 10
-)
+
 while lives > 0:
 
 	character_left = 0
